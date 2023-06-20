@@ -1,0 +1,415 @@
+"","parameter","forkortelse","enhet","kategori_1","kategori_2","dato","sigevann","verdi","LOQ","verdi_korr","gv_min","gv_max","GV_over","provepunkt","krav"
+"1","Arsen (As)","As","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-24,"inn","8",FALSE,8,"50",NA,FALSE,152,TRUE
+"2","Arsen (As)","As","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-31,"inn","8.1",FALSE,8.1,"50",NA,FALSE,152,TRUE
+"3","Arsen (As)","As","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-07,"inn","7.8",FALSE,7.8,"50",NA,FALSE,152,TRUE
+"4","Arsen (As)","As","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-21,"inn","8.4",FALSE,8.4,"50",NA,FALSE,152,TRUE
+"5","Arsen (As)","As","<U+00B5>g/l","tungmetaller","tungmetaller",2022-12-12,"inn","11.1",FALSE,11.1,"50",NA,FALSE,152,TRUE
+"6","Arsen (As)","As","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-13,"inn","13.5",FALSE,13.5,"50",NA,FALSE,152,TRUE
+"7","Arsen (As)","As","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-27,"inn","7.9",FALSE,7.9,"50",NA,FALSE,152,TRUE
+"8","Arsen (As)","As","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-14,"inn","6.4",FALSE,6.4,"50",NA,FALSE,152,TRUE
+"9","Arsen (As)","As","<U+00B5>g/l","tungmetaller","tungmetaller",2023-03-15,"inn","16.5",FALSE,16.5,"50",NA,FALSE,152,TRUE
+"10","Arsen (As)","As","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-24,"ut","6",FALSE,6,"50",NA,FALSE,151,TRUE
+"11","Arsen (As)","As","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-31,"ut","5.8",FALSE,5.8,"50",NA,FALSE,151,TRUE
+"12","Arsen (As)","As","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-07,"ut","5.4",FALSE,5.4,"50",NA,FALSE,151,TRUE
+"13","Arsen (As)","As","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-21,"ut","6.5",FALSE,6.5,"50",NA,FALSE,151,TRUE
+"14","Arsen (As)","As","<U+00B5>g/l","tungmetaller","tungmetaller",2022-12-12,"ut","10.4",FALSE,10.4,"50",NA,FALSE,151,TRUE
+"15","Arsen (As)","As","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-13,"ut","7.2",FALSE,7.2,"50",NA,FALSE,151,TRUE
+"16","Arsen (As)","As","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-27,"ut","5",FALSE,5,"50",NA,FALSE,151,TRUE
+"17","Arsen (As)","As","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-14,"ut","5.5",FALSE,5.5,"50",NA,FALSE,151,TRUE
+"18","Arsen (As)","As","<U+00B5>g/l","tungmetaller","tungmetaller",2023-03-15,"ut","5.0999999999999996",FALSE,5.1,"50",NA,FALSE,151,TRUE
+"19","BOF-5","BOF-5","mg/l","vannparameter","organisk materiale",2022-10-24,"inn","202",FALSE,202,"300",NA,FALSE,152,TRUE
+"20","BOF-5","BOF-5","mg/l","vannparameter","organisk materiale",2022-10-31,"inn","119",FALSE,119,"300",NA,FALSE,152,TRUE
+"21","BOF-5","BOF-5","mg/l","vannparameter","organisk materiale",2022-11-07,"inn","107",FALSE,107,"300",NA,FALSE,152,TRUE
+"22","BOF-5","BOF-5","mg/l","vannparameter","organisk materiale",2022-11-21,"inn","214",FALSE,214,"300",NA,FALSE,152,TRUE
+"23","BOF-5","BOF-5","mg/l","vannparameter","organisk materiale",2022-12-12,"inn","95.6",FALSE,95.6,"300",NA,FALSE,152,TRUE
+"24","BOF-5","BOF-5","mg/l","vannparameter","organisk materiale",2023-02-13,"inn","306",FALSE,306,"300",NA,TRUE,152,TRUE
+"25","BOF-5","BOF-5","mg/l","vannparameter","organisk materiale",2023-02-27,"inn","180",FALSE,180,"300",NA,FALSE,152,TRUE
+"26","BOF-5","BOF-5","mg/l","vannparameter","organisk materiale",2022-11-14,"inn","40.5",FALSE,40.5,"300",NA,FALSE,152,TRUE
+"27","BOF-5","BOF-5","mg/l","vannparameter","organisk materiale",2023-03-15,"inn","316",FALSE,316,"300",NA,TRUE,152,TRUE
+"28","BOF-5","BOF-5","mg/l","vannparameter","organisk materiale",2022-10-24,"ut","165",FALSE,165,"300",NA,FALSE,151,TRUE
+"29","BOF-5","BOF-5","mg/l","vannparameter","organisk materiale",2022-10-31,"ut","52.2",FALSE,52.2,"300",NA,FALSE,151,TRUE
+"30","BOF-5","BOF-5","mg/l","vannparameter","organisk materiale",2022-11-07,"ut","50.5",FALSE,50.5,"300",NA,FALSE,151,TRUE
+"31","BOF-5","BOF-5","mg/l","vannparameter","organisk materiale",2022-11-21,"ut","62.5",FALSE,62.5,"300",NA,FALSE,151,TRUE
+"32","BOF-5","BOF-5","mg/l","vannparameter","organisk materiale",2022-12-12,"ut","63",FALSE,63,"300",NA,FALSE,151,TRUE
+"33","BOF-5","BOF-5","mg/l","vannparameter","organisk materiale",2023-02-13,"ut","107",FALSE,107,"300",NA,FALSE,151,TRUE
+"34","BOF-5","BOF-5","mg/l","vannparameter","organisk materiale",2023-02-27,"ut","123",FALSE,123,"300",NA,FALSE,151,TRUE
+"35","BOF-5","BOF-5","mg/l","vannparameter","organisk materiale",2022-11-14,"ut","21.2",FALSE,21.2,"300",NA,FALSE,151,TRUE
+"36","BOF-5","BOF-5","mg/l","vannparameter","organisk materiale",2023-03-15,"ut","17.600000000000001",FALSE,17.6,"300",NA,FALSE,151,TRUE
+"37","Kadmium (Cd)","Cd","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-24,"inn","<0,2",TRUE,0.2,"5",NA,FALSE,152,TRUE
+"38","Kadmium (Cd)","Cd","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-24,"ut","<0,2",TRUE,0.2,"5",NA,FALSE,151,TRUE
+"39","Kadmium (Cd)","Cd","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-31,"inn","0.55000000000000004",FALSE,0.55,"5",NA,FALSE,152,TRUE
+"40","Kadmium (Cd)","Cd","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-31,"ut","0.24",FALSE,0.24,"5",NA,FALSE,151,TRUE
+"41","Kadmium (Cd)","Cd","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-07,"inn","0.26",FALSE,0.26,"5",NA,FALSE,152,TRUE
+"42","Kadmium (Cd)","Cd","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-07,"ut","0.2",FALSE,0.2,"5",NA,FALSE,151,TRUE
+"43","Kadmium (Cd)","Cd","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-14,"inn","0.92",FALSE,0.92,"5",NA,FALSE,152,TRUE
+"44","Kadmium (Cd)","Cd","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-14,"ut","<0,2",TRUE,0.2,"5",NA,FALSE,151,TRUE
+"45","Kadmium (Cd)","Cd","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-21,"inn","0.63",FALSE,0.63,"5",NA,FALSE,152,TRUE
+"46","Kadmium (Cd)","Cd","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-21,"ut","<0,2",TRUE,0.2,"5",NA,FALSE,151,TRUE
+"47","Kadmium (Cd)","Cd","<U+00B5>g/l","tungmetaller","tungmetaller",2022-12-12,"inn","0.25",FALSE,0.25,"5",NA,FALSE,152,TRUE
+"48","Kadmium (Cd)","Cd","<U+00B5>g/l","tungmetaller","tungmetaller",2022-12-12,"ut","<0,2",TRUE,0.2,"5",NA,FALSE,151,TRUE
+"49","Kadmium (Cd)","Cd","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-13,"inn","0.54",FALSE,0.54,"5",NA,FALSE,152,TRUE
+"50","Kadmium (Cd)","Cd","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-13,"ut","<0,2",TRUE,0.2,"5",NA,FALSE,151,TRUE
+"51","Kadmium (Cd)","Cd","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-27,"inn","0.35",FALSE,0.35,"5",NA,FALSE,152,TRUE
+"52","Kadmium (Cd)","Cd","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-27,"ut","<0,2",TRUE,0.2,"5",NA,FALSE,151,TRUE
+"53","Kadmium (Cd)","Cd","<U+00B5>g/l","tungmetaller","tungmetaller",2023-03-15,"inn","1.88",FALSE,1.88,"5",NA,FALSE,152,TRUE
+"54","Kadmium (Cd)","Cd","<U+00B5>g/l","tungmetaller","tungmetaller",2023-03-15,"ut","<0.20",TRUE,0.2,"5",NA,FALSE,151,TRUE
+"55","Krom (Cr)","Cr","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-24,"inn","13",FALSE,13,"50",NA,FALSE,152,TRUE
+"56","Krom (Cr)","Cr","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-31,"inn","19",FALSE,19,"50",NA,FALSE,152,TRUE
+"57","Krom (Cr)","Cr","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-07,"inn","15.1",FALSE,15.1,"50",NA,FALSE,152,TRUE
+"58","Krom (Cr)","Cr","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-21,"inn","30.9",FALSE,30.9,"50",NA,FALSE,152,TRUE
+"59","Krom (Cr)","Cr","<U+00B5>g/l","tungmetaller","tungmetaller",2022-12-12,"inn","17.399999999999999",FALSE,17.4,"50",NA,FALSE,152,TRUE
+"60","Krom (Cr)","Cr","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-13,"inn","29.1",FALSE,29.1,"50",NA,FALSE,152,TRUE
+"61","Krom (Cr)","Cr","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-27,"inn","20.3",FALSE,20.3,"50",NA,FALSE,152,TRUE
+"62","Krom (Cr)","Cr","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-14,"inn","23.5",FALSE,23.5,"50",NA,FALSE,152,TRUE
+"63","Krom (Cr)","Cr","<U+00B5>g/l","tungmetaller","tungmetaller",2023-03-15,"inn","55.1",FALSE,55.1,"50",NA,TRUE,152,TRUE
+"64","Krom (Cr)","Cr","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-24,"ut","3.7",FALSE,3.7,"50",NA,FALSE,151,TRUE
+"65","Krom (Cr)","Cr","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-31,"ut","4.9000000000000004",FALSE,4.9,"50",NA,FALSE,151,TRUE
+"66","Krom (Cr)","Cr","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-07,"ut","4",FALSE,4,"50",NA,FALSE,151,TRUE
+"67","Krom (Cr)","Cr","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-21,"ut","8",FALSE,8,"50",NA,FALSE,151,TRUE
+"68","Krom (Cr)","Cr","<U+00B5>g/l","tungmetaller","tungmetaller",2022-12-12,"ut","7.4",FALSE,7.4,"50",NA,FALSE,151,TRUE
+"69","Krom (Cr)","Cr","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-13,"ut","5.4",FALSE,5.4,"50",NA,FALSE,151,TRUE
+"70","Krom (Cr)","Cr","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-27,"ut","16.5",FALSE,16.5,"50",NA,FALSE,151,TRUE
+"71","Krom (Cr)","Cr","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-14,"ut","6.2",FALSE,6.2,"50",NA,FALSE,151,TRUE
+"72","Krom (Cr)","Cr","<U+00B5>g/l","tungmetaller","tungmetaller",2023-03-15,"ut","3.6",FALSE,3.6,"50",NA,FALSE,151,TRUE
+"73","Kobber (Cu)","Cu","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-24,"inn","34.200000000000003",FALSE,34.2,"200",NA,FALSE,152,TRUE
+"74","Kobber (Cu)","Cu","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-31,"inn","92.1",FALSE,92.1,"200",NA,FALSE,152,TRUE
+"75","Kobber (Cu)","Cu","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-07,"inn","72.2",FALSE,72.2,"200",NA,FALSE,152,TRUE
+"76","Kobber (Cu)","Cu","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-21,"inn","170",FALSE,170,"200",NA,FALSE,152,TRUE
+"77","Kobber (Cu)","Cu","<U+00B5>g/l","tungmetaller","tungmetaller",2022-12-12,"inn","54.8",FALSE,54.8,"200",NA,FALSE,152,TRUE
+"78","Kobber (Cu)","Cu","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-13,"inn","138",FALSE,138,"200",NA,FALSE,152,TRUE
+"79","Kobber (Cu)","Cu","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-27,"inn","79.599999999999994",FALSE,79.6,"200",NA,FALSE,152,TRUE
+"80","Kobber (Cu)","Cu","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-14,"inn","221",FALSE,221,"200",NA,TRUE,152,TRUE
+"81","Kobber (Cu)","Cu","<U+00B5>g/l","tungmetaller","tungmetaller",2023-03-15,"inn","505",FALSE,505,"200",NA,TRUE,152,TRUE
+"82","Kobber (Cu)","Cu","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-24,"ut","5",FALSE,5,"200",NA,FALSE,151,TRUE
+"83","Kobber (Cu)","Cu","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-31,"ut",NA,NA,NA,"200",NA,NA,151,TRUE
+"84","Kobber (Cu)","Cu","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-07,"ut","17.3",FALSE,17.3,"200",NA,FALSE,151,TRUE
+"85","Kobber (Cu)","Cu","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-21,"ut","11.3",FALSE,11.3,"200",NA,FALSE,151,TRUE
+"86","Kobber (Cu)","Cu","<U+00B5>g/l","tungmetaller","tungmetaller",2022-12-12,"ut","14.2",FALSE,14.2,"200",NA,FALSE,151,TRUE
+"87","Kobber (Cu)","Cu","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-13,"ut","8.6",FALSE,8.6,"200",NA,FALSE,151,TRUE
+"88","Kobber (Cu)","Cu","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-27,"ut","5.9",FALSE,5.9,"200",NA,FALSE,151,TRUE
+"89","Kobber (Cu)","Cu","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-14,"ut","11.1",FALSE,11.1,"200",NA,FALSE,151,TRUE
+"90","Kobber (Cu)","Cu","<U+00B5>g/l","tungmetaller","tungmetaller",2023-03-15,"ut","2.6",FALSE,2.6,"200",NA,FALSE,151,TRUE
+"91","Di-(2-etylheksyl)ftalat","DEHP","<U+00B5>g/l","org milj","ftalat",2022-11-14,"inn","2.2000000000000002",FALSE,2.2,"m<U+00E5>lekrav",NA,FALSE,152,TRUE
+"92","Di-(2-etylheksyl)ftalat","DEHP","<U+00B5>g/l","org milj","ftalat",2022-10-24,"inn","18.899999999999999",FALSE,18.9,"m<U+00E5>lekrav",NA,FALSE,152,TRUE
+"93","Di-(2-etylheksyl)ftalat","DEHP","<U+00B5>g/l","org milj","ftalat",2022-10-31,"inn","38.700000000000003",FALSE,38.7,"m<U+00E5>lekrav",NA,FALSE,152,TRUE
+"94","Di-(2-etylheksyl)ftalat","DEHP","<U+00B5>g/l","org milj","ftalat",2022-11-07,"inn","22.3",FALSE,22.3,"m<U+00E5>lekrav",NA,FALSE,152,TRUE
+"95","Di-(2-etylheksyl)ftalat","DEHP","<U+00B5>g/l","org milj","ftalat",2022-11-21,"inn","6.6",FALSE,6.6,"m<U+00E5>lekrav",NA,FALSE,152,TRUE
+"96","Di-(2-etylheksyl)ftalat","DEHP","<U+00B5>g/l","org milj","ftalat",2022-12-12,"inn","9.6",FALSE,9.6,"m<U+00E5>lekrav",NA,FALSE,152,TRUE
+"97","Di-(2-etylheksyl)ftalat","DEHP","<U+00B5>g/l","org milj","ftalat",2023-02-13,"inn","11.6",FALSE,11.6,"m<U+00E5>lekrav",NA,FALSE,152,TRUE
+"98","Di-(2-etylheksyl)ftalat","DEHP","<U+00B5>g/l","org milj","ftalat",2023-02-27,"inn","36.299999999999997",FALSE,36.3,"m<U+00E5>lekrav",NA,FALSE,152,TRUE
+"99","Di-(2-etylheksyl)ftalat","DEHP","<U+00B5>g/l","org milj","ftalat",2023-03-15,"inn","40.299999999999997",FALSE,40.3,"m<U+00E5>lekrav",NA,FALSE,152,TRUE
+"100","Di-(2-etylheksyl)ftalat","DEHP","<U+00B5>g/l","org milj","ftalat",2022-11-14,"ut","<1,0",TRUE,1,"m<U+00E5>lekrav",NA,FALSE,151,TRUE
+"101","Di-(2-etylheksyl)ftalat","DEHP","<U+00B5>g/l","org milj","ftalat",2022-10-24,"ut","<3,0",TRUE,3,"m<U+00E5>lekrav",NA,FALSE,151,TRUE
+"102","Di-(2-etylheksyl)ftalat","DEHP","<U+00B5>g/l","org milj","ftalat",2022-10-31,"ut","2.7",FALSE,2.7,"m<U+00E5>lekrav",NA,FALSE,151,TRUE
+"103","Di-(2-etylheksyl)ftalat","DEHP","<U+00B5>g/l","org milj","ftalat",2022-11-07,"ut","1.8",FALSE,1.8,"m<U+00E5>lekrav",NA,FALSE,151,TRUE
+"104","Di-(2-etylheksyl)ftalat","DEHP","<U+00B5>g/l","org milj","ftalat",2022-11-21,"ut","<2,5",TRUE,2.5,"m<U+00E5>lekrav",NA,FALSE,151,TRUE
+"105","Di-(2-etylheksyl)ftalat","DEHP","<U+00B5>g/l","org milj","ftalat",2022-12-12,"ut","5.8",FALSE,5.8,"m<U+00E5>lekrav",NA,FALSE,151,TRUE
+"106","Di-(2-etylheksyl)ftalat","DEHP","<U+00B5>g/l","org milj","ftalat",2023-02-13,"ut","3.8",FALSE,3.8,"m<U+00E5>lekrav",NA,FALSE,151,TRUE
+"107","Di-(2-etylheksyl)ftalat","DEHP","<U+00B5>g/l","org milj","ftalat",2023-02-27,"ut","<1,0",TRUE,1,"m<U+00E5>lekrav",NA,FALSE,151,TRUE
+"108","Di-(2-etylheksyl)ftalat","DEHP","<U+00B5>g/l","org milj","ftalat",2023-03-15,"ut","<2.5",TRUE,2.5,"m<U+00E5>lekrav",NA,FALSE,151,TRUE
+"109","Ledningsevne","EC","mS/m","vannparameter","EC",2022-10-24,"inn","426",FALSE,426,NA,NA,FALSE,152,TRUE
+"110","Ledningsevne","EC","mS/m","vannparameter","EC",2022-10-31,"inn","362",FALSE,362,NA,NA,FALSE,152,TRUE
+"111","Ledningsevne","EC","mS/m","vannparameter","EC",2022-11-07,"inn","303",FALSE,303,NA,NA,FALSE,152,TRUE
+"112","Ledningsevne","EC","mS/m","vannparameter","EC",2022-11-21,"inn","384",FALSE,384,NA,NA,FALSE,152,TRUE
+"113","Ledningsevne","EC","mS/m","vannparameter","EC",2022-12-12,"inn","369",FALSE,369,NA,NA,FALSE,152,TRUE
+"114","Ledningsevne","EC","mS/m","vannparameter","EC",2023-02-13,"inn","462",FALSE,462,NA,NA,FALSE,152,TRUE
+"115","Ledningsevne","EC","mS/m","vannparameter","EC",2023-02-27,"inn","400",FALSE,400,NA,NA,FALSE,152,TRUE
+"116","Ledningsevne","EC","mS/m","vannparameter","EC",2022-11-14,"inn","263",FALSE,263,NA,NA,FALSE,152,TRUE
+"117","Ledningsevne","EC","mS/m","vannparameter","EC",2023-03-15,"inn","406",FALSE,406,NA,NA,FALSE,152,TRUE
+"118","Ledningsevne","EC","mS/m","vannparameter","EC",2022-10-24,"ut","420",FALSE,420,NA,NA,FALSE,151,TRUE
+"119","Ledningsevne","EC","mS/m","vannparameter","EC",2022-10-31,"ut","351",FALSE,351,NA,NA,FALSE,151,TRUE
+"120","Ledningsevne","EC","mS/m","vannparameter","EC",2022-11-07,"ut","294",FALSE,294,NA,NA,FALSE,151,TRUE
+"121","Ledningsevne","EC","mS/m","vannparameter","EC",2022-11-21,"ut","374",FALSE,374,NA,NA,FALSE,151,TRUE
+"122","Ledningsevne","EC","mS/m","vannparameter","EC",2022-12-12,"ut","383",FALSE,383,NA,NA,FALSE,151,TRUE
+"123","Ledningsevne","EC","mS/m","vannparameter","EC",2023-02-13,"ut","462",FALSE,462,NA,NA,FALSE,151,TRUE
+"124","Ledningsevne","EC","mS/m","vannparameter","EC",2023-02-27,"ut","425",FALSE,425,NA,NA,FALSE,151,TRUE
+"125","Ledningsevne","EC","mS/m","vannparameter","EC",2022-11-14,"ut","361",FALSE,361,NA,NA,FALSE,151,TRUE
+"126","Ledningsevne","EC","mS/m","vannparameter","EC",2023-03-15,"ut","454",FALSE,454,NA,NA,FALSE,151,TRUE
+"127","Kvikks<U+00F8>lv (Hg)","Hg","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-24,"inn","0.185",FALSE,0.185,"2",NA,FALSE,152,TRUE
+"128","Kvikks<U+00F8>lv (Hg)","Hg","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-31,"inn","0.13800000000000001",FALSE,0.138,"2",NA,FALSE,152,TRUE
+"129","Kvikks<U+00F8>lv (Hg)","Hg","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-07,"inn","9.0499999999999997E-2",FALSE,0.0905,"2",NA,FALSE,152,TRUE
+"130","Kvikks<U+00F8>lv (Hg)","Hg","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-21,"inn","0.16600000000000001",FALSE,0.166,"2",NA,FALSE,152,TRUE
+"131","Kvikks<U+00F8>lv (Hg)","Hg","<U+00B5>g/l","tungmetaller","tungmetaller",2022-12-12,"inn","5.8299999999999998E-2",FALSE,0.0583,"2",NA,FALSE,152,TRUE
+"132","Kvikks<U+00F8>lv (Hg)","Hg","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-13,"inn","0.192",FALSE,0.192,"2",NA,FALSE,152,TRUE
+"133","Kvikks<U+00F8>lv (Hg)","Hg","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-27,"inn","0.114",FALSE,0.114,"2",NA,FALSE,152,TRUE
+"134","Kvikks<U+00F8>lv (Hg)","Hg","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-14,"inn","0.221",FALSE,0.221,"2",NA,FALSE,152,TRUE
+"135","Kvikks<U+00F8>lv (Hg)","Hg","<U+00B5>g/l","tungmetaller","tungmetaller",2023-03-15,"inn","0.30499999999999999",FALSE,0.305,"2",NA,FALSE,152,TRUE
+"136","Kvikks<U+00F8>lv (Hg)","Hg","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-24,"ut","2.8199999999999999E-2",FALSE,0.0282,"2",NA,FALSE,151,TRUE
+"137","Kvikks<U+00F8>lv (Hg)","Hg","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-31,"ut","2.98E-2",FALSE,0.0298,"2",NA,FALSE,151,TRUE
+"138","Kvikks<U+00F8>lv (Hg)","Hg","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-07,"ut",NA,NA,NA,"2",NA,NA,151,TRUE
+"139","Kvikks<U+00F8>lv (Hg)","Hg","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-21,"ut","3.9600000000000003E-2",FALSE,0.0396,"2",NA,FALSE,151,TRUE
+"140","Kvikks<U+00F8>lv (Hg)","Hg","<U+00B5>g/l","tungmetaller","tungmetaller",2022-12-12,"ut","3.6499999999999998E-2",FALSE,0.0365,"2",NA,FALSE,151,TRUE
+"141","Kvikks<U+00F8>lv (Hg)","Hg","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-13,"ut","6.2E-2",FALSE,0.062,"2",NA,FALSE,151,TRUE
+"142","Kvikks<U+00F8>lv (Hg)","Hg","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-27,"ut","2.6499999999999999E-2",FALSE,0.0265,"2",NA,FALSE,151,TRUE
+"143","Kvikks<U+00F8>lv (Hg)","Hg","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-14,"ut","0.02",FALSE,0.02,"2",NA,FALSE,151,TRUE
+"144","Kvikks<U+00F8>lv (Hg)","Hg","<U+00B5>g/l","tungmetaller","tungmetaller",2023-03-15,"ut","1.6199999999999999E-2",FALSE,0.0162,"2",NA,FALSE,151,TRUE
+"145","KOF-Cr","KOF-Cr","mg/l","vannparameter","organisk materiale",2022-11-14,"inn","570",FALSE,570,"600",NA,FALSE,152,TRUE
+"146","KOF-Cr","KOF-Cr","mg/l","vannparameter","organisk materiale",2022-10-24,"inn","991",FALSE,991,"600",NA,TRUE,152,TRUE
+"147","KOF-Cr","KOF-Cr","mg/l","vannparameter","organisk materiale",2022-10-31,"inn","846",FALSE,846,"600",NA,TRUE,152,TRUE
+"148","KOF-Cr","KOF-Cr","mg/l","vannparameter","organisk materiale",2022-11-07,"inn","672",FALSE,672,"600",NA,TRUE,152,TRUE
+"149","KOF-Cr","KOF-Cr","mg/l","vannparameter","organisk materiale",2022-11-21,"inn","1240",FALSE,1240,"600",NA,TRUE,152,TRUE
+"150","KOF-Cr","KOF-Cr","mg/l","vannparameter","organisk materiale",2022-12-12,"inn","829",FALSE,829,"600",NA,TRUE,152,TRUE
+"151","KOF-Cr","KOF-Cr","mg/l","vannparameter","organisk materiale",2023-02-13,"inn","1520",FALSE,1520,"600",NA,TRUE,152,TRUE
+"152","KOF-Cr","KOF-Cr","mg/l","vannparameter","organisk materiale",2023-02-27,"inn","1040",FALSE,1040,"600",NA,TRUE,152,TRUE
+"153","KOF-Cr","KOF-Cr","mg/l","vannparameter","organisk materiale",2023-03-15,"inn","1790",FALSE,1790,"600",NA,TRUE,152,TRUE
+"154","KOF-Cr","KOF-Cr","mg/l","vannparameter","organisk materiale",2022-11-14,"ut","450",FALSE,450,"600",NA,FALSE,151,TRUE
+"155","KOF-Cr","KOF-Cr","mg/l","vannparameter","organisk materiale",2022-10-24,"ut","799",FALSE,799,"600",NA,TRUE,151,TRUE
+"156","KOF-Cr","KOF-Cr","mg/l","vannparameter","organisk materiale",2022-10-31,"ut","543",FALSE,543,"600",NA,FALSE,151,TRUE
+"157","KOF-Cr","KOF-Cr","mg/l","vannparameter","organisk materiale",2022-11-07,"ut","472",FALSE,472,"600",NA,FALSE,151,TRUE
+"158","KOF-Cr","KOF-Cr","mg/l","vannparameter","organisk materiale",2022-11-21,"ut","597",FALSE,597,"600",NA,FALSE,151,TRUE
+"159","KOF-Cr","KOF-Cr","mg/l","vannparameter","organisk materiale",2022-12-12,"ut","688",FALSE,688,"600",NA,TRUE,151,TRUE
+"160","KOF-Cr","KOF-Cr","mg/l","vannparameter","organisk materiale",2023-02-13,"ut","839",FALSE,839,"600",NA,TRUE,151,TRUE
+"161","KOF-Cr","KOF-Cr","mg/l","vannparameter","organisk materiale",2023-02-27,"ut","646",FALSE,646,"600",NA,TRUE,151,TRUE
+"162","KOF-Cr","KOF-Cr","mg/l","vannparameter","organisk materiale",2023-03-15,"ut","432",FALSE,432,"600",NA,FALSE,151,TRUE
+"163","Nikkel (Ni)","Ni","<U+00B5>g/l","tungmetaller","andre metaller",2022-10-24,"inn","29.7",FALSE,29.7,"50",NA,FALSE,152,TRUE
+"164","Nikkel (Ni)","Ni","<U+00B5>g/l","tungmetaller","andre metaller",2022-10-31,"inn","35.200000000000003",FALSE,35.2,"50",NA,FALSE,152,TRUE
+"165","Nikkel (Ni)","Ni","<U+00B5>g/l","tungmetaller","andre metaller",2022-11-07,"inn","30.1",FALSE,30.1,"50",NA,FALSE,152,TRUE
+"166","Nikkel (Ni)","Ni","<U+00B5>g/l","tungmetaller","andre metaller",2022-11-21,"inn","49.4",FALSE,49.4,"50",NA,FALSE,152,TRUE
+"167","Nikkel (Ni)","Ni","<U+00B5>g/l","tungmetaller","andre metaller",2022-12-12,"inn","32.200000000000003",FALSE,32.2,"50",NA,FALSE,152,TRUE
+"168","Nikkel (Ni)","Ni","<U+00B5>g/l","tungmetaller","andre metaller",2023-02-13,"inn","46.5",FALSE,46.5,"50",NA,FALSE,152,TRUE
+"169","Nikkel (Ni)","Ni","<U+00B5>g/l","tungmetaller","andre metaller",2023-02-27,"inn","40.4",FALSE,40.4,"50",NA,FALSE,152,TRUE
+"170","Nikkel (Ni)","Ni","<U+00B5>g/l","tungmetaller","andre metaller",2022-11-14,"inn","39.4",FALSE,39.4,"50",NA,FALSE,152,TRUE
+"171","Nikkel (Ni)","Ni","<U+00B5>g/l","tungmetaller","andre metaller",2023-03-15,"inn","74.900000000000006",FALSE,74.9,"50",NA,TRUE,152,TRUE
+"172","Nikkel (Ni)","Ni","<U+00B5>g/l","tungmetaller","andre metaller",2022-10-24,"ut","27.5",FALSE,27.5,"50",NA,FALSE,151,TRUE
+"173","Nikkel (Ni)","Ni","<U+00B5>g/l","tungmetaller","andre metaller",2022-10-31,"ut","28.9",FALSE,28.9,"50",NA,FALSE,151,TRUE
+"174","Nikkel (Ni)","Ni","<U+00B5>g/l","tungmetaller","andre metaller",2022-11-07,"ut","26.4",FALSE,26.4,"50",NA,FALSE,151,TRUE
+"175","Nikkel (Ni)","Ni","<U+00B5>g/l","tungmetaller","andre metaller",2022-11-21,"ut","35",FALSE,35,"50",NA,FALSE,151,TRUE
+"176","Nikkel (Ni)","Ni","<U+00B5>g/l","tungmetaller","andre metaller",2022-12-12,"ut","32.5",FALSE,32.5,"50",NA,FALSE,151,TRUE
+"177","Nikkel (Ni)","Ni","<U+00B5>g/l","tungmetaller","andre metaller",2023-02-13,"ut","36.1",FALSE,36.1,"50",NA,FALSE,151,TRUE
+"178","Nikkel (Ni)","Ni","<U+00B5>g/l","tungmetaller","andre metaller",2023-02-27,"ut","29.8",FALSE,29.8,"50",NA,FALSE,151,TRUE
+"179","Nikkel (Ni)","Ni","<U+00B5>g/l","tungmetaller","andre metaller",2022-11-14,"ut","31.8",FALSE,31.8,"50",NA,FALSE,151,TRUE
+"180","Nikkel (Ni)","Ni","<U+00B5>g/l","tungmetaller","andre metaller",2023-03-15,"ut","28.2",FALSE,28.2,"50",NA,FALSE,151,TRUE
+"181","Bly (Pb)","Pb","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-14,"inn","62.5",FALSE,62.5,"50",NA,TRUE,152,TRUE
+"182","Bly (Pb)","Pb","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-24,"inn","8.5",FALSE,8.5,"50",NA,FALSE,152,TRUE
+"183","Bly (Pb)","Pb","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-31,"inn","36.1",FALSE,36.1,"50",NA,FALSE,152,TRUE
+"184","Bly (Pb)","Pb","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-07,"inn","17.3",FALSE,17.3,"50",NA,FALSE,152,TRUE
+"185","Bly (Pb)","Pb","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-21,"inn","44.6",FALSE,44.6,"50",NA,FALSE,152,TRUE
+"186","Bly (Pb)","Pb","<U+00B5>g/l","tungmetaller","tungmetaller",2022-12-12,"inn","6.9",FALSE,6.9,"50",NA,FALSE,152,TRUE
+"187","Bly (Pb)","Pb","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-13,"inn","12.7",FALSE,12.7,"50",NA,FALSE,152,TRUE
+"188","Bly (Pb)","Pb","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-27,"inn","15.6",FALSE,15.6,"50",NA,FALSE,152,TRUE
+"189","Bly (Pb)","Pb","<U+00B5>g/l","tungmetaller","tungmetaller",2023-03-15,"inn","73.400000000000006",FALSE,73.4,"50",NA,TRUE,152,TRUE
+"190","Bly (Pb)","Pb","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-14,"ut","1.4",FALSE,1.4,"50",NA,FALSE,151,TRUE
+"191","Bly (Pb)","Pb","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-24,"ut","1.1000000000000001",FALSE,1.1,"50",NA,FALSE,151,TRUE
+"192","Bly (Pb)","Pb","<U+00B5>g/l","tungmetaller","tungmetaller",2022-10-31,"ut","3.7",FALSE,3.7,"50",NA,FALSE,151,TRUE
+"193","Bly (Pb)","Pb","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-07,"ut","3.5",FALSE,3.5,"50",NA,FALSE,151,TRUE
+"194","Bly (Pb)","Pb","<U+00B5>g/l","tungmetaller","tungmetaller",2022-11-21,"ut","2.5",FALSE,2.5,"50",NA,FALSE,151,TRUE
+"195","Bly (Pb)","Pb","<U+00B5>g/l","tungmetaller","tungmetaller",2022-12-12,"ut","1.9",FALSE,1.9,"50",NA,FALSE,151,TRUE
+"196","Bly (Pb)","Pb","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-13,"ut","1.1000000000000001",FALSE,1.1,"50",NA,FALSE,151,TRUE
+"197","Bly (Pb)","Pb","<U+00B5>g/l","tungmetaller","tungmetaller",2023-02-27,"ut","<1,0",TRUE,1,"50",NA,FALSE,151,TRUE
+"198","Bly (Pb)","Pb","<U+00B5>g/l","tungmetaller","tungmetaller",2023-03-15,"ut","<1.0",TRUE,1,"50",NA,FALSE,151,TRUE
+"199","pH","pH",NA,"vannparameter","pH",2023-03-15,"ut","7.3",FALSE,7.3,"5.5",8.5,TRUE,151,TRUE
+"200","pH","pH",NA,"vannparameter","pH",2022-11-14,"ut","8.5",FALSE,8.5,"5.5",8.5,TRUE,151,TRUE
+"201","pH","pH",NA,"vannparameter","pH",2022-10-24,"ut","8.5",FALSE,8.5,"5.5",8.5,TRUE,151,TRUE
+"202","pH","pH",NA,"vannparameter","pH",2022-10-31,"ut","8.5",FALSE,8.5,"5.5",8.5,TRUE,151,TRUE
+"203","pH","pH",NA,"vannparameter","pH",2022-11-07,"ut","8.5",FALSE,8.5,"5.5",8.5,TRUE,151,TRUE
+"204","pH","pH",NA,"vannparameter","pH",2022-11-21,"ut","8.5",FALSE,8.5,"5.5",8.5,TRUE,151,TRUE
+"205","pH","pH",NA,"vannparameter","pH",2022-12-12,"ut","8.5",FALSE,8.5,"5.5",8.5,TRUE,151,TRUE
+"206","pH","pH",NA,"vannparameter","pH",2023-02-13,"ut","8.5",FALSE,8.5,"5.5",8.5,TRUE,151,TRUE
+"207","pH","pH",NA,"vannparameter","pH",2023-02-27,"ut","8.5",FALSE,8.5,"5.5",8.5,TRUE,151,TRUE
+"208","pH","pH",NA,"vannparameter","pH",2023-03-15,"inn","7.9",FALSE,7.9,"5.5",8.5,TRUE,152,TRUE
+"209","pH","pH",NA,"vannparameter","pH",2022-11-14,"inn","7.3",FALSE,7.3,"5.5",8.5,TRUE,152,TRUE
+"210","pH","pH",NA,"vannparameter","pH",2022-10-24,"inn","7.7",FALSE,7.7,"5.5",8.5,TRUE,152,TRUE
+"211","pH","pH",NA,"vannparameter","pH",2022-10-31,"inn","7.7",FALSE,7.7,"5.5",8.5,TRUE,152,TRUE
+"212","pH","pH",NA,"vannparameter","pH",2022-11-07,"inn","7.6",FALSE,7.6,"5.5",8.5,TRUE,152,TRUE
+"213","pH","pH",NA,"vannparameter","pH",2022-11-21,"inn","7.7",FALSE,7.7,"5.5",8.5,TRUE,152,TRUE
+"214","pH","pH",NA,"vannparameter","pH",2022-12-12,"inn","7.9",FALSE,7.9,"5.5",8.5,TRUE,152,TRUE
+"215","pH","pH",NA,"vannparameter","pH",2023-02-13,"inn","7.9",FALSE,7.9,"5.5",8.5,TRUE,152,TRUE
+"216","pH","pH",NA,"vannparameter","pH",2023-02-27,"inn","7.5",FALSE,7.5,"5.5",8.5,TRUE,152,TRUE
+"217","Sum PAH-16","Sum PAH-16","<U+00B5>g/l","org milj","PAH",2022-10-24,"inn","10.8",FALSE,10.8,"m<U+00E5>lekrav",NA,FALSE,152,TRUE
+"218","Sum PAH-16","Sum PAH-16","<U+00B5>g/l","org milj","PAH",2022-10-31,"inn","7.13",FALSE,7.13,"m<U+00E5>lekrav",NA,FALSE,152,TRUE
+"219","Sum PAH-16","Sum PAH-16","<U+00B5>g/l","org milj","PAH",2022-11-07,"inn","7.08",FALSE,7.08,"m<U+00E5>lekrav",NA,FALSE,152,TRUE
+"220","Sum PAH-16","Sum PAH-16","<U+00B5>g/l","org milj","PAH",2022-11-21,"inn","6.92",FALSE,6.92,"m<U+00E5>lekrav",NA,FALSE,152,TRUE
+"221","Sum PAH-16","Sum PAH-16","<U+00B5>g/l","org milj","PAH",2022-12-12,"inn",NA,NA,NA,"m<U+00E5>lekrav",NA,NA,152,TRUE
+"222","Sum PAH-16","Sum PAH-16","<U+00B5>g/l","org milj","PAH",2023-02-13,"inn","8.51",FALSE,8.51,"m<U+00E5>lekrav",NA,FALSE,152,TRUE
+"223","Sum PAH-16","Sum PAH-16","<U+00B5>g/l","org milj","PAH",2023-02-27,"inn","11",FALSE,11,"m<U+00E5>lekrav",NA,FALSE,152,TRUE
+"224","Sum PAH-16","Sum PAH-16","<U+00B5>g/l","org milj","PAH",2022-11-14,"inn","4.7699999999999996",FALSE,4.77,"m<U+00E5>lekrav",NA,FALSE,152,TRUE
+"225","Sum PAH-16","Sum PAH-16","<U+00B5>g/l","org milj","PAH",2023-03-15,"inn","3.79",FALSE,3.79,"m<U+00E5>lekrav",NA,FALSE,152,TRUE
+"226","Sum PAH-16","Sum PAH-16","<U+00B5>g/l","org milj","PAH",2022-10-24,"ut","4.67",FALSE,4.67,"m<U+00E5>lekrav",NA,FALSE,151,TRUE
+"227","Sum PAH-16","Sum PAH-16","<U+00B5>g/l","org milj","PAH",2022-10-31,"ut","4.1100000000000003",FALSE,4.11,"m<U+00E5>lekrav",NA,FALSE,151,TRUE
+"228","Sum PAH-16","Sum PAH-16","<U+00B5>g/l","org milj","PAH",2022-11-07,"ut","2.58",FALSE,2.58,"m<U+00E5>lekrav",NA,FALSE,151,TRUE
+"229","Sum PAH-16","Sum PAH-16","<U+00B5>g/l","org milj","PAH",2022-11-21,"ut","2.61",FALSE,2.61,"m<U+00E5>lekrav",NA,FALSE,151,TRUE
+"230","Sum PAH-16","Sum PAH-16","<U+00B5>g/l","org milj","PAH",2022-12-12,"ut","2.64",FALSE,2.64,"m<U+00E5>lekrav",NA,FALSE,151,TRUE
+"231","Sum PAH-16","Sum PAH-16","<U+00B5>g/l","org milj","PAH",2023-02-13,"ut","3.33",FALSE,3.33,"m<U+00E5>lekrav",NA,FALSE,151,TRUE
+"232","Sum PAH-16","Sum PAH-16","<U+00B5>g/l","org milj","PAH",2023-02-27,"ut","3.66",FALSE,3.66,"m<U+00E5>lekrav",NA,FALSE,151,TRUE
+"233","Sum PAH-16","Sum PAH-16","<U+00B5>g/l","org milj","PAH",2022-11-14,"ut","0.93",FALSE,0.93,"m<U+00E5>lekrav",NA,FALSE,151,TRUE
+"234","Sum PAH-16","Sum PAH-16","<U+00B5>g/l","org milj","PAH",2023-03-15,"ut","0.61799999999999999",FALSE,0.618,"m<U+00E5>lekrav",NA,FALSE,151,TRUE
+"235","Suspendert Stoff","Suspendert stoff","mg/l","vannparameter","stoff",2022-10-24,"inn","200",FALSE,200,"50",NA,TRUE,152,TRUE
+"236","Suspendert Stoff","Suspendert stoff","mg/l","vannparameter","stoff",2022-10-24,"ut","76",FALSE,76,"50",NA,TRUE,151,TRUE
+"237","Suspendert Stoff","Suspendert stoff","mg/l","vannparameter","stoff",2022-10-31,"inn","340",FALSE,340,"50",NA,TRUE,152,TRUE
+"238","Suspendert Stoff","Suspendert stoff","mg/l","vannparameter","stoff",2022-10-31,"ut","220",FALSE,220,"50",NA,TRUE,151,TRUE
+"239","Suspendert Stoff","Suspendert stoff","mg/l","vannparameter","stoff",2022-11-07,"inn","290",FALSE,290,"50",NA,TRUE,152,TRUE
+"240","Suspendert Stoff","Suspendert stoff","mg/l","vannparameter","stoff",2022-11-07,"ut","110",FALSE,110,"50",NA,TRUE,151,TRUE
+"241","Suspendert Stoff","Suspendert stoff","mg/l","vannparameter","stoff",2022-11-14,"inn","350",FALSE,350,"50",NA,TRUE,152,TRUE
+"242","Suspendert Stoff","Suspendert stoff","mg/l","vannparameter","stoff",2022-11-14,"ut","92",FALSE,92,"50",NA,TRUE,151,TRUE
+"243","Suspendert Stoff","Suspendert stoff","mg/l","vannparameter","stoff",2022-11-21,"inn","510",FALSE,510,"50",NA,TRUE,152,TRUE
+"244","Suspendert Stoff","Suspendert stoff","mg/l","vannparameter","stoff",2022-11-21,"ut","90",FALSE,90,"50",NA,TRUE,151,TRUE
+"245","Suspendert Stoff","Suspendert stoff","mg/l","vannparameter","stoff",2022-12-12,"inn","340",FALSE,340,"50",NA,TRUE,152,TRUE
+"246","Suspendert Stoff","Suspendert stoff","mg/l","vannparameter","stoff",2022-12-12,"ut","100",FALSE,100,"50",NA,TRUE,151,TRUE
+"247","Suspendert Stoff","Suspendert stoff","mg/l","vannparameter","stoff",2023-02-13,"inn","750",FALSE,750,"50",NA,TRUE,152,TRUE
+"248","Suspendert Stoff","Suspendert stoff","mg/l","vannparameter","stoff",2023-02-13,"ut","90",FALSE,90,"50",NA,TRUE,151,TRUE
+"249","Suspendert Stoff","Suspendert stoff","mg/l","vannparameter","stoff",2023-02-27,"inn","490",FALSE,490,"50",NA,TRUE,152,TRUE
+"250","Suspendert Stoff","Suspendert stoff","mg/l","vannparameter","stoff",2023-02-27,"ut","8",FALSE,8,"50",NA,FALSE,151,TRUE
+"251","Suspendert stoff","Suspendert stoff","mg/l","vannparameter","stoff",2023-03-15,"inn","640",FALSE,640,"50",NA,TRUE,152,TRUE
+"252","Suspendert stoff","Suspendert stoff","mg/l","vannparameter","stoff",2023-03-15,"ut","10",FALSE,10,"50",NA,FALSE,151,TRUE
+"253","THC >C10-C12","THC >C10-C12","<U+00B5>g/l","hydrokarboner","alifater",2022-10-24,"inn","129",FALSE,129,NA,NA,FALSE,152,TRUE
+"254","THC >C10-C12","THC >C10-C12","<U+00B5>g/l","hydrokarboner","alifater",2022-10-31,"inn","166",FALSE,166,NA,NA,FALSE,152,TRUE
+"255","THC >C10-C12","THC >C10-C12","<U+00B5>g/l","hydrokarboner","alifater",2022-11-07,"inn","119",FALSE,119,NA,NA,FALSE,152,TRUE
+"256","THC >C10-C12","THC >C10-C12","<U+00B5>g/l","hydrokarboner","alifater",2022-11-21,"inn","110",FALSE,110,NA,NA,FALSE,152,TRUE
+"257","THC >C10-C12","THC >C10-C12","<U+00B5>g/l","hydrokarboner","alifater",2022-12-12,"inn","98.9",FALSE,98.9,NA,NA,FALSE,152,TRUE
+"258","THC >C10-C12","THC >C10-C12","<U+00B5>g/l","hydrokarboner","alifater",2023-02-13,"inn","184",FALSE,184,NA,NA,FALSE,152,TRUE
+"259","THC >C10-C12","THC >C10-C12","<U+00B5>g/l","hydrokarboner","alifater",2023-02-27,"inn","184",FALSE,184,NA,NA,FALSE,152,TRUE
+"260","THC >C10-C12","THC >C10-C12","<U+00B5>g/l","hydrokarboner","alifater",2022-11-14,"inn","149",FALSE,149,NA,NA,FALSE,152,TRUE
+"261","THC >C10-C12","THC >C10-C12","<U+00B5>g/L","hydrokarboner","alifater",2023-03-15,"inn","122",FALSE,122,NA,NA,FALSE,152,TRUE
+"262","THC >C10-C12","THC >C10-C12","<U+00B5>g/l","hydrokarboner","alifater",2022-10-24,"ut","21.8",FALSE,21.8,NA,NA,FALSE,151,TRUE
+"263","THC >C10-C12","THC >C10-C12","<U+00B5>g/l","hydrokarboner","alifater",2022-10-31,"ut","31.3",FALSE,31.3,NA,NA,FALSE,151,TRUE
+"264","THC >C10-C12","THC >C10-C12","<U+00B5>g/l","hydrokarboner","alifater",2022-11-07,"ut","26.2",FALSE,26.2,NA,NA,FALSE,151,TRUE
+"265","THC >C10-C12","THC >C10-C12","<U+00B5>g/l","hydrokarboner","alifater",2022-11-21,"ut","21.5",FALSE,21.5,NA,NA,FALSE,151,TRUE
+"266","THC >C10-C12","THC >C10-C12","<U+00B5>g/l","hydrokarboner","alifater",2022-12-12,"ut","32.799999999999997",FALSE,32.8,NA,NA,FALSE,151,TRUE
+"267","THC >C10-C12","THC >C10-C12","<U+00B5>g/l","hydrokarboner","alifater",2023-02-13,"ut","34.799999999999997",FALSE,34.8,NA,NA,FALSE,151,TRUE
+"268","THC >C10-C12","THC >C10-C12","<U+00B5>g/l","hydrokarboner","alifater",2023-02-27,"ut","31.6",FALSE,31.6,NA,NA,FALSE,151,TRUE
+"269","THC >C10-C12","THC >C10-C12","<U+00B5>g/l","hydrokarboner","alifater",2022-11-14,"ut","<5,0",TRUE,5,NA,NA,FALSE,151,TRUE
+"270","THC >C10-C12","THC >C10-C12","<U+00B5>g/l","hydrokarboner","alifater",2023-03-15,"ut","24.9",FALSE,24.9,NA,NA,FALSE,151,TRUE
+"271","THC >C10-C40","THC >C10-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-10-24,"inn","1200",FALSE,1200,NA,NA,FALSE,152,TRUE
+"272","THC >C10-C40","THC >C10-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-10-31,"inn","1680",FALSE,1680,NA,NA,FALSE,152,TRUE
+"273","THC >C10-C40","THC >C10-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-11-07,"inn","1200",FALSE,1200,NA,NA,FALSE,152,TRUE
+"274","THC >C10-C40","THC >C10-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-11-21,"inn","929",FALSE,929,NA,NA,FALSE,152,TRUE
+"275","THC >C10-C40","THC >C10-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-12-12,"inn","932",FALSE,932,NA,NA,FALSE,152,TRUE
+"276","THC >C10-C40","THC >C10-C40","<U+00B5>g/l","hydrokarboner","alifater",2023-02-13,"inn","1690",FALSE,1690,NA,NA,FALSE,152,TRUE
+"277","THC >C10-C40","THC >C10-C40","<U+00B5>g/l","hydrokarboner","alifater",2023-02-27,"inn","1150",FALSE,1150,NA,NA,FALSE,152,TRUE
+"278","THC >C10-C40","THC >C10-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-11-14,"inn","1750",FALSE,1750,NA,NA,FALSE,152,TRUE
+"279","THC >C10-C40","THC >C10-C40","<U+00B5>g/L","hydrokarboner","alifater",2023-03-15,"inn","1550",FALSE,1550,NA,NA,FALSE,152,TRUE
+"280","THC >C10-C40","THC >C10-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-10-24,"ut","311",FALSE,311,NA,NA,FALSE,151,TRUE
+"281","THC >C10-C40","THC >C10-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-10-31,"ut","364",FALSE,364,NA,NA,FALSE,151,TRUE
+"282","THC >C10-C40","THC >C10-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-11-07,"ut","520",FALSE,520,NA,NA,FALSE,151,TRUE
+"283","THC >C10-C40","THC >C10-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-11-21,"ut","207",FALSE,207,NA,NA,FALSE,151,TRUE
+"284","THC >C10-C40","THC >C10-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-12-12,"ut","472",FALSE,472,NA,NA,FALSE,151,TRUE
+"285","THC >C10-C40","THC >C10-C40","<U+00B5>g/l","hydrokarboner","alifater",2023-02-13,"ut","1110",FALSE,1110,NA,NA,FALSE,151,TRUE
+"286","THC >C10-C40","THC >C10-C40","<U+00B5>g/l","hydrokarboner","alifater",2023-02-27,"ut","123",FALSE,123,NA,NA,FALSE,151,TRUE
+"287","THC >C10-C40","THC >C10-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-11-14,"ut","249",FALSE,249,NA,NA,FALSE,151,TRUE
+"288","THC >C10-C40","THC >C10-C40","<U+00B5>g/l","hydrokarboner","alifater",2023-03-15,"ut","441",FALSE,441,NA,NA,FALSE,151,TRUE
+"289","THC >C12-C16","THC >C12-C16","<U+00B5>g/l","hydrokarboner","alifater",2022-10-24,"inn","236",FALSE,236,NA,NA,FALSE,152,TRUE
+"290","THC >C12-C16","THC >C12-C16","<U+00B5>g/l","hydrokarboner","alifater",2022-10-31,"inn","328",FALSE,328,NA,NA,FALSE,152,TRUE
+"291","THC >C12-C16","THC >C12-C16","<U+00B5>g/l","hydrokarboner","alifater",2022-11-07,"inn","234",FALSE,234,NA,NA,FALSE,152,TRUE
+"292","THC >C12-C16","THC >C12-C16","<U+00B5>g/l","hydrokarboner","alifater",2022-11-21,"inn","217",FALSE,217,NA,NA,FALSE,152,TRUE
+"293","THC >C12-C16","THC >C12-C16","<U+00B5>g/l","hydrokarboner","alifater",2022-12-12,"inn","243",FALSE,243,NA,NA,FALSE,152,TRUE
+"294","THC >C12-C16","THC >C12-C16","<U+00B5>g/l","hydrokarboner","alifater",2023-02-13,"inn","461",FALSE,461,NA,NA,FALSE,152,TRUE
+"295","THC >C12-C16","THC >C12-C16","<U+00B5>g/l","hydrokarboner","alifater",2023-02-27,"inn","345",FALSE,345,NA,NA,FALSE,152,TRUE
+"296","THC >C12-C16","THC >C12-C16","<U+00B5>g/l","hydrokarboner","alifater",2022-11-14,"inn","314",FALSE,314,NA,NA,FALSE,152,TRUE
+"297","THC >C12-C16","THC >C12-C16","<U+00B5>g/L","hydrokarboner","alifater",2023-03-15,"inn","336",FALSE,336,NA,NA,FALSE,152,TRUE
+"298","THC >C12-C16","THC >C12-C16","<U+00B5>g/l","hydrokarboner","alifater",2022-10-24,"ut","175",FALSE,175,NA,NA,FALSE,151,TRUE
+"299","THC >C12-C16","THC >C12-C16","<U+00B5>g/l","hydrokarboner","alifater",2022-10-31,"ut","155",FALSE,155,NA,NA,FALSE,151,TRUE
+"300","THC >C12-C16","THC >C12-C16","<U+00B5>g/l","hydrokarboner","alifater",2022-11-07,"ut","379",FALSE,379,NA,NA,FALSE,151,TRUE
+"301","THC >C12-C16","THC >C12-C16","<U+00B5>g/l","hydrokarboner","alifater",2022-11-21,"ut","105",FALSE,105,NA,NA,FALSE,151,TRUE
+"302","THC >C12-C16","THC >C12-C16","<U+00B5>g/l","hydrokarboner","alifater",2022-12-12,"ut","225",FALSE,225,NA,NA,FALSE,151,TRUE
+"303","THC >C12-C16","THC >C12-C16","<U+00B5>g/l","hydrokarboner","alifater",2023-02-13,"ut","845",FALSE,845,NA,NA,FALSE,151,TRUE
+"304","THC >C12-C16","THC >C12-C16","<U+00B5>g/l","hydrokarboner","alifater",2023-02-27,"ut","61.9",FALSE,61.9,NA,NA,FALSE,151,TRUE
+"305","THC >C12-C16","THC >C12-C16","<U+00B5>g/l","hydrokarboner","alifater",2022-11-14,"ut","139",FALSE,139,NA,NA,FALSE,151,TRUE
+"306","THC >C12-C16","THC >C12-C16","<U+00B5>g/l","hydrokarboner","alifater",2023-03-15,"ut","225",FALSE,225,NA,NA,FALSE,151,TRUE
+"307","THC >C16-C35","THC >C16-C35","<U+00B5>g/l","hydrokarboner","alifater",2022-10-24,"inn","760",FALSE,760,NA,NA,FALSE,152,TRUE
+"308","THC >C16-C35","THC >C16-C35","<U+00B5>g/l","hydrokarboner","alifater",2022-10-31,"inn","1070",FALSE,1070,NA,NA,FALSE,152,TRUE
+"309","THC >C16-C35","THC >C16-C35","<U+00B5>g/l","hydrokarboner","alifater",2022-11-07,"inn","764",FALSE,764,NA,NA,FALSE,152,TRUE
+"310","THC >C16-C35","THC >C16-C35","<U+00B5>g/l","hydrokarboner","alifater",2022-11-21,"inn","548",FALSE,548,NA,NA,FALSE,152,TRUE
+"311","THC >C16-C35","THC >C16-C35","<U+00B5>g/l","hydrokarboner","alifater",2022-12-12,"inn","541",FALSE,541,NA,NA,FALSE,152,TRUE
+"312","THC >C16-C35","THC >C16-C35","<U+00B5>g/l","hydrokarboner","alifater",2023-02-13,"inn","962",FALSE,962,NA,NA,FALSE,152,TRUE
+"313","THC >C16-C35","THC >C16-C35","<U+00B5>g/l","hydrokarboner","alifater",2023-02-27,"inn","568",FALSE,568,NA,NA,FALSE,152,TRUE
+"314","THC >C16-C35","THC >C16-C35","<U+00B5>g/l","hydrokarboner","alifater",2022-11-14,"inn","1160",FALSE,1160,NA,NA,FALSE,152,TRUE
+"315","THC >C16-C35","THC >C16-C35","<U+00B5>g/L","hydrokarboner","alifater",2023-03-15,"inn","998",FALSE,998,NA,NA,FALSE,152,TRUE
+"316","THC >C16-C35","THC >C16-C35","<U+00B5>g/l","hydrokarboner","alifater",2022-10-24,"ut","112",FALSE,112,NA,NA,FALSE,151,TRUE
+"317","THC >C16-C35","THC >C16-C35","<U+00B5>g/l","hydrokarboner","alifater",2022-10-31,"ut","169",FALSE,169,NA,NA,FALSE,151,TRUE
+"318","THC >C16-C35","THC >C16-C35","<U+00B5>g/l","hydrokarboner","alifater",2022-11-07,"ut","106",FALSE,106,NA,NA,FALSE,151,TRUE
+"319","THC >C16-C35","THC >C16-C35","<U+00B5>g/l","hydrokarboner","alifater",2022-11-21,"ut","55.2",FALSE,55.2,NA,NA,FALSE,151,TRUE
+"320","THC >C16-C35","THC >C16-C35","<U+00B5>g/l","hydrokarboner","alifater",2022-12-12,"ut","197",FALSE,197,NA,NA,FALSE,151,TRUE
+"321","THC >C16-C35","THC >C16-C35","<U+00B5>g/l","hydrokarboner","alifater",2023-02-13,"ut","223",FALSE,223,NA,NA,FALSE,151,TRUE
+"322","THC >C16-C35","THC >C16-C35","<U+00B5>g/l","hydrokarboner","alifater",2023-02-27,"ut","<30",TRUE,30,NA,NA,FALSE,151,TRUE
+"323","THC >C16-C35","THC >C16-C35","<U+00B5>g/l","hydrokarboner","alifater",2022-11-14,"ut","101",FALSE,101,NA,NA,FALSE,151,TRUE
+"324","THC >C16-C35","THC >C16-C35","<U+00B5>g/l","hydrokarboner","alifater",2023-03-15,"ut","182",FALSE,182,NA,NA,FALSE,151,TRUE
+"325","THC >C35-C40","THC >C35-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-10-24,"inn","73.2",FALSE,73.2,NA,NA,FALSE,152,TRUE
+"326","THC >C35-C40","THC >C35-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-10-31,"inn","117",FALSE,117,NA,NA,FALSE,152,TRUE
+"327","THC >C35-C40","THC >C35-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-11-07,"inn","87.9",FALSE,87.9,NA,NA,FALSE,152,TRUE
+"328","THC >C35-C40","THC >C35-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-11-21,"inn","54.2",FALSE,54.2,NA,NA,FALSE,152,TRUE
+"329","THC >C35-C40","THC >C35-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-12-12,"inn","48.8",FALSE,48.8,NA,NA,FALSE,152,TRUE
+"330","THC >C35-C40","THC >C35-C40","<U+00B5>g/l","hydrokarboner","alifater",2023-02-13,"inn","79.5",FALSE,79.5,NA,NA,FALSE,152,TRUE
+"331","THC >C35-C40","THC >C35-C40","<U+00B5>g/l","hydrokarboner","alifater",2023-02-27,"inn","52.5",FALSE,52.5,NA,NA,FALSE,152,TRUE
+"332","THC >C35-C40","THC >C35-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-11-14,"inn","132",FALSE,132,NA,NA,FALSE,152,TRUE
+"333","THC >C35-C40","THC >C35-C40","<U+00B5>g/L","hydrokarboner","alifater",2023-03-15,"inn","95.9",FALSE,95.9,NA,NA,FALSE,152,TRUE
+"334","THC >C35-C40","THC >C35-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-10-24,"ut","<10",TRUE,10,NA,NA,FALSE,151,TRUE
+"335","THC >C35-C40","THC >C35-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-10-31,"ut","<10",TRUE,10,NA,NA,FALSE,151,TRUE
+"336","THC >C35-C40","THC >C35-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-11-07,"ut","<10",TRUE,10,NA,NA,FALSE,151,TRUE
+"337","THC >C35-C40","THC >C35-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-11-21,"ut","24.9",FALSE,24.9,NA,NA,FALSE,151,TRUE
+"338","THC >C35-C40","THC >C35-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-12-12,"ut","16.7",FALSE,16.7,NA,NA,FALSE,151,TRUE
+"339","THC >C35-C40","THC >C35-C40","<U+00B5>g/l","hydrokarboner","alifater",2023-02-13,"ut","<10",TRUE,10,NA,NA,FALSE,151,TRUE
+"340","THC >C35-C40","THC >C35-C40","<U+00B5>g/l","hydrokarboner","alifater",2023-02-27,"ut","10",FALSE,10,NA,NA,FALSE,151,TRUE
+"341","THC >C35-C40","THC >C35-C40","<U+00B5>g/l","hydrokarboner","alifater",2022-11-14,"ut","<10",TRUE,10,NA,NA,FALSE,151,TRUE
+"342","THC >C35-C40","THC >C35-C40","<U+00B5>g/l","hydrokarboner","alifater",2023-03-15,"ut","<10.0",TRUE,10,NA,NA,FALSE,151,TRUE
+"343","Totalt organisk karbon","TOC","mg/l","vannparameter","organisk materiale",2022-10-24,"inn","360",FALSE,360,"120",NA,TRUE,152,TRUE
+"344","Totalt organisk karbon","TOC","mg/l","vannparameter","organisk materiale",2022-10-31,"inn","200",FALSE,200,"120",NA,TRUE,152,TRUE
+"345","Totalt organisk karbon","TOC","mg/l","vannparameter","organisk materiale",2022-11-07,"inn","360",FALSE,360,"120",NA,TRUE,152,TRUE
+"346","Totalt organisk karbon","TOC","mg/l","vannparameter","organisk materiale",2022-11-21,"inn","250",FALSE,250,"120",NA,TRUE,152,TRUE
+"347","Totalt organisk karbon","TOC","mg/l","vannparameter","organisk materiale",2022-12-12,"inn","220",FALSE,220,"120",NA,TRUE,152,TRUE
+"348","Totalt organisk karbon","TOC","mg/l","vannparameter","organisk materiale",2023-02-13,"inn","330",FALSE,330,"120",NA,TRUE,152,TRUE
+"349","Totalt organisk karbon","TOC","mg/l","vannparameter","organisk materiale",2023-02-27,"inn","180",FALSE,180,"120",NA,TRUE,152,TRUE
+"350","Totalt organisk karbon","TOC","mg/l","vannparameter","organisk materiale",2022-11-14,"inn","17",FALSE,17,"120",NA,FALSE,152,TRUE
+"351","Totalt organisk karbon","TOC","mg/l","vannparameter","organisk materiale",2023-03-15,"inn","620",FALSE,620,"120",NA,TRUE,152,TRUE
+"352","Totalt organisk karbon","TOC","mg/l","vannparameter","organisk materiale",2022-10-24,"ut","340",FALSE,340,"120",NA,TRUE,151,TRUE
+"353","Totalt organisk karbon","TOC","mg/l","vannparameter","organisk materiale",2022-10-31,"ut","190",FALSE,190,"120",NA,TRUE,151,TRUE
+"354","Totalt organisk karbon","TOC","mg/l","vannparameter","organisk materiale",2022-11-07,"ut","150",FALSE,150,"120",NA,TRUE,151,TRUE
+"355","Totalt organisk karbon","TOC","mg/l","vannparameter","organisk materiale",2022-11-21,"ut","190",FALSE,190,"120",NA,TRUE,151,TRUE
+"356","Totalt organisk karbon","TOC","mg/l","vannparameter","organisk materiale",2022-12-12,"ut","220",FALSE,220,"120",NA,TRUE,151,TRUE
+"357","Totalt organisk karbon","TOC","mg/l","vannparameter","organisk materiale",2023-02-13,"ut","280",FALSE,280,"120",NA,TRUE,151,TRUE
+"358","Totalt organisk karbon","TOC","mg/l","vannparameter","organisk materiale",2023-02-27,"ut","180",FALSE,180,"120",NA,TRUE,151,TRUE
+"359","Totalt organisk karbon","TOC","mg/l","vannparameter","organisk materiale",2022-11-14,"ut","5.4",FALSE,5.4,"120",NA,FALSE,151,TRUE
+"360","Totalt organisk karbon","TOC","mg/l","vannparameter","organisk materiale",2023-03-15,"ut","78",FALSE,78,"120",NA,FALSE,151,TRUE
+"361","Total Nitrogen","Tot N","mg/l","vannparameter","nutrient",2022-10-24,"inn","540",FALSE,540,"60",NA,TRUE,152,TRUE
+"362","Total Nitrogen","Tot N","mg/l","vannparameter","nutrient",2022-10-31,"inn","387",FALSE,387,"60",NA,TRUE,152,TRUE
+"363","Total Nitrogen","Tot N","mg/l","vannparameter","nutrient",2022-11-07,"inn","262",FALSE,262,"60",NA,TRUE,152,TRUE
+"364","Total Nitrogen","Tot N","mg/l","vannparameter","nutrient",2022-11-21,"inn","350",FALSE,350,"60",NA,TRUE,152,TRUE
+"365","Total Nitrogen","Tot N","mg/l","vannparameter","nutrient",2022-12-12,"inn","343",FALSE,343,"60",NA,TRUE,152,TRUE
+"366","Total Nitrogen","Tot N","mg/l","vannparameter","nutrient",2023-02-13,"inn","576",FALSE,576,"60",NA,TRUE,152,TRUE
+"367","Total Nitrogen","Tot N","mg/l","vannparameter","nutrient",2023-02-27,"inn","383",FALSE,383,"60",NA,TRUE,152,TRUE
+"368","Total Nitrogen","Tot N","mg/l","vannparameter","nutrient",2022-11-14,"inn","315",FALSE,315,"60",NA,TRUE,152,TRUE
+"369","Total Nitrogen","Tot N","mg/l","vannparameter","nutrient",2023-03-15,"inn","382",FALSE,382,"60",NA,TRUE,152,TRUE
+"370","Total Nitrogen","Tot N","mg/l","vannparameter","nutrient",2022-10-24,"ut","526",FALSE,526,"60",NA,TRUE,151,TRUE
+"371","Total Nitrogen","Tot N","mg/l","vannparameter","nutrient",2022-10-31,"ut","388",FALSE,388,"60",NA,TRUE,151,TRUE
+"372","Total Nitrogen","Tot N","mg/l","vannparameter","nutrient",2022-11-07,"ut","268",FALSE,268,"60",NA,TRUE,151,TRUE
+"373","Total Nitrogen","Tot N","mg/l","vannparameter","nutrient",2022-11-21,"ut","355",FALSE,355,"60",NA,TRUE,151,TRUE
+"374","Total Nitrogen","Tot N","mg/l","vannparameter","nutrient",2022-12-12,"ut","639",FALSE,639,"60",NA,TRUE,151,TRUE
+"375","Total Nitrogen","Tot N","mg/l","vannparameter","nutrient",2023-02-13,"ut","543",FALSE,543,"60",NA,TRUE,151,TRUE
+"376","Total Nitrogen","Tot N","mg/l","vannparameter","nutrient",2023-02-27,"ut","361",FALSE,361,"60",NA,TRUE,151,TRUE
+"377","Total Nitrogen","Tot N","mg/l","vannparameter","nutrient",2022-11-14,"ut","144",FALSE,144,"60",NA,TRUE,151,TRUE
+"378","Total Nitrogen","Tot N","mg/l","vannparameter","nutrient",2023-03-15,"ut","421",FALSE,421,"60",NA,TRUE,151,TRUE
+"379","Total Fosfor","Tot P","mg/l","vannparameter","nutrient",2022-10-24,"inn","5.2",FALSE,5.2,"10",NA,FALSE,152,TRUE
+"380","Total Fosfor","Tot P","mg/l","vannparameter","nutrient",2022-10-31,"inn","5.8",FALSE,5.8,"10",NA,FALSE,152,TRUE
+"381","Total Fosfor","Tot P","mg/l","vannparameter","nutrient",2022-11-07,"inn","7.5",FALSE,7.5,"10",NA,FALSE,152,TRUE
+"382","Total Fosfor","Tot P","mg/l","vannparameter","nutrient",2022-11-14,"inn","6",FALSE,6,"10",NA,FALSE,152,TRUE
+"383","Total Fosfor","Tot P","mg/l","vannparameter","nutrient",2022-11-21,"inn","12",FALSE,12,"10",NA,TRUE,152,TRUE
+"384","Total Fosfor","Tot P","mg/l","vannparameter","nutrient",2022-12-12,"inn","8.5",FALSE,8.5,"10",NA,FALSE,152,TRUE
+"385","Total Fosfor","Tot P","mg/l","vannparameter","nutrient",2023-02-13,"inn","15",FALSE,15,"10",NA,TRUE,152,TRUE
+"386","Total Fosfor","Tot P","mg/l","vannparameter","nutrient",2023-02-27,"inn","9.6999999999999993",FALSE,9.7,"10",NA,FALSE,152,TRUE
+"387","Total Fosfor","Tot P","mg/l","vannparameter","nutrient",2023-03-15,"inn","99",FALSE,99,"10",NA,TRUE,152,TRUE
+"388","Total Fosfor","Tot P","mg/l","vannparameter","nutrient",2022-10-24,"ut","1.5",FALSE,1.5,"10",NA,FALSE,151,TRUE
+"389","Total Fosfor","Tot P","mg/l","vannparameter","nutrient",2022-10-31,"ut","1.6",FALSE,1.6,"10",NA,FALSE,151,TRUE
+"390","Total Fosfor","Tot P","mg/l","vannparameter","nutrient",2022-11-07,"ut","1.1000000000000001",FALSE,1.1,"10",NA,FALSE,151,TRUE
+"391","Total Fosfor","Tot P","mg/l","vannparameter","nutrient",2022-11-14,"ut","1.1000000000000001",FALSE,1.1,"10",NA,FALSE,151,TRUE
+"392","Total Fosfor","Tot P","mg/l","vannparameter","nutrient",2022-11-21,"ut","1.1000000000000001",FALSE,1.1,"10",NA,FALSE,151,TRUE
+"393","Total Fosfor","Tot P","mg/l","vannparameter","nutrient",2022-12-12,"ut","3.1",FALSE,3.1,"10",NA,FALSE,151,TRUE
+"394","Total Fosfor","Tot P","mg/l","vannparameter","nutrient",2023-02-13,"ut","1.9",FALSE,1.9,"10",NA,FALSE,151,TRUE
+"395","Total Fosfor","Tot P","mg/l","vannparameter","nutrient",2023-02-27,"ut","0.27",FALSE,0.27,"10",NA,FALSE,151,TRUE
+"396","Total Fosfor","Tot P","mg/l","vannparameter","nutrient",2023-03-15,"ut","0.25",FALSE,0.25,"10",NA,FALSE,151,TRUE
+"397","Sink (Zn)","Zn","<U+00B5>g/l","tungmetaller","andre metaller",2022-11-14,"inn","891",FALSE,891,NA,NA,FALSE,152,TRUE
+"398","Sink (Zn)","Zn","<U+00B5>g/l","tungmetaller","andre metaller",2022-10-24,"inn","147",FALSE,147,NA,NA,FALSE,152,TRUE
+"399","Sink (Zn)","Zn","<U+00B5>g/l","tungmetaller","andre metaller",2022-10-31,"inn","409",FALSE,409,NA,NA,FALSE,152,TRUE
+"400","Sink (Zn)","Zn","<U+00B5>g/l","tungmetaller","andre metaller",2022-11-07,"inn","310",FALSE,310,NA,NA,FALSE,152,TRUE
+"401","Sink (Zn)","Zn","<U+00B5>g/l","tungmetaller","andre metaller",2022-11-21,"inn","792",FALSE,792,NA,NA,FALSE,152,TRUE
+"402","Sink (Zn)","Zn","<U+00B5>g/l","tungmetaller","andre metaller",2022-12-12,"inn","214",FALSE,214,NA,NA,FALSE,152,TRUE
+"403","Sink (Zn)","Zn","<U+00B5>g/l","tungmetaller","andre metaller",2023-02-13,"inn","460",FALSE,460,NA,NA,FALSE,152,TRUE
+"404","Sink (Zn)","Zn","<U+00B5>g/l","tungmetaller","andre metaller",2023-02-27,"inn","438",FALSE,438,NA,NA,FALSE,152,TRUE
+"405","Sink (Zn)","Zn","<U+00B5>g/l","tungmetaller","andre metaller",2023-03-15,"inn","1980",FALSE,1980,NA,NA,FALSE,152,TRUE
+"406","Sink (Zn)","Zn","<U+00B5>g/l","tungmetaller","andre metaller",2022-11-14,"ut","61.2",FALSE,61.2,NA,NA,FALSE,151,TRUE
+"407","Sink (Zn)","Zn","<U+00B5>g/l","tungmetaller","andre metaller",2022-10-24,"ut","42.7",FALSE,42.7,NA,NA,FALSE,151,TRUE
+"408","Sink (Zn)","Zn","<U+00B5>g/l","tungmetaller","andre metaller",2022-10-31,"ut","68.7",FALSE,68.7,NA,NA,FALSE,151,TRUE
+"409","Sink (Zn)","Zn","<U+00B5>g/l","tungmetaller","andre metaller",2022-11-07,"ut","69.5",FALSE,69.5,NA,NA,FALSE,151,TRUE
+"410","Sink (Zn)","Zn","<U+00B5>g/l","tungmetaller","andre metaller",2022-11-21,"ut","96.6",FALSE,96.6,NA,NA,FALSE,151,TRUE
+"411","Sink (Zn)","Zn","<U+00B5>g/l","tungmetaller","andre metaller",2022-12-12,"ut","59",FALSE,59,NA,NA,FALSE,151,TRUE
+"412","Sink (Zn)","Zn","<U+00B5>g/l","tungmetaller","andre metaller",2023-02-13,"ut","37.4",FALSE,37.4,NA,NA,FALSE,151,TRUE
+"413","Sink (Zn)","Zn","<U+00B5>g/l","tungmetaller","andre metaller",2023-02-27,"ut","40.6",FALSE,40.6,NA,NA,FALSE,151,TRUE
+"414","Sink (Zn)","Zn","<U+00B5>g/l","tungmetaller","andre metaller",2023-03-15,"ut","30.1",FALSE,30.1,NA,NA,FALSE,151,TRUE
